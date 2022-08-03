@@ -23,7 +23,9 @@ div{
 
 
 .topline{
+    position:relative;
     width: 80px;
+    right:20px;
 }
 /* Links */
 .bluelink:link{
