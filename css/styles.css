@@ -1,0 +1,125 @@
+body {
+
+    text-align: center;
+
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+div{
+    margin: 50px 0 50px 0;
+}
+
+
+.top{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin:0px;
+}
+
+/* Links */
+.bluelink:link{
+    color: blue;
+   text-decoration: none;
+}
+.bluelink:visited{
+    color: blue;
+}
+.bluelink:hover{
+    color: slategrey;
+}
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+a:hover{
+    color: lightskyblue;
+}
+
+/* Links */
+.bottomcontainer {
+    background-color: grey;
+    padding: 50px;
+    height: auto;
+    margin: 0px;
+}
+
+hr {
+    width: 60px;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    color: lightslategrey;
+}
+
+h1 {
+    font-family: 'Cookie', cursive;
+    font-size: 100px;
+    margin: 0%;
+}
+
+.para1 {
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+
+.avatar {
+    width: 200px;
+}
+
+.cloud1 {
+    position: relative;
+    right: 100px;
+}
+
+.cloud2 {
+    position: relative;
+    left: 100px;
+}
+.mountain-img{
+    position: relative;
+    height: 300px;
+}
+.laptop{
+    display: inline-block;
+    width: 300px;
+    height: auto;
+    border-radius: 100%;
+    
+}
+.desktop{
+    display: inline-block;
+    height: 200px;
+    width: 350px;
+    border-radius: 100%;
+    
+}
+.skillrow1 {
+    margin-bottom: 100px;
+}
+.span1 {
+    border: groove;
+    padding: 5px; 
+    background-color: white;
+}
+
+.span2 {
+    border: groove;
+    padding: 5px; 
+    background-color: white;  
+}
+.btn{
+    text-decoration: none;
+    border: none;
+    padding: 5px;
+    text-decoration: solid;
+    margin: auto 10px auto 10px;
+    
+}
+
