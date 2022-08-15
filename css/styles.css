@@ -266,7 +266,7 @@ h3 {
 }
 
 .btn:hover {
-    background-color: #256D85;
+    background-color: black;
     color: white;
     font-size: 18px;
     transition: .3s;
